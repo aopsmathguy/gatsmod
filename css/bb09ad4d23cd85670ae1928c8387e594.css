@@ -630,7 +630,7 @@ a.plain-link {
 #canvas {
     position: absolute;
     z-index: 1;
-    background-color:lightblue;
+    background-color:lightgreen;
 }
 
 .unselectable {
