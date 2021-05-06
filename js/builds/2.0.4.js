@@ -4934,7 +4934,7 @@ setInterval( function() {
         for (var i = 0; i < Object.keys(players).length; i++)
         {
             var player = players[i];
-            if (player.activated != 1 || c3 == i || $("#gametypeDropdown")['val']() != 'FFA' && player.teamCode == thisPlayer.teamCode)
+            if (player.activated != 1 || c3 == i || player.teamCode != 0 && player.teamCode == thisPlayer.teamCode)
             {
                 continue;
             }
