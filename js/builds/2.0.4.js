@@ -4897,10 +4897,19 @@ var bulletSpeeds = {
     "machine-gun" : 21
 };
 var mouse = {x:0,y:0};
-document[_0x2b6237(0x23a)] = function(e) {
+var keys = {};
+document.onmousemove = function(e) {
     mouse.x = e.clientX;
     mouse.y = e.clientY;
 }
+document.addEventListener("keydown", function(e)
+{
+    keys[e.key] = true;
+});
+document.addEventListener("keyup", function(e)
+{
+    keys[e.key] = false;
+});
 setInterval( function() {
     var _0x651ef2 = _0x2b6237;
     var event = {
@@ -4908,7 +4917,7 @@ setInterval( function() {
         clientY : 20*(mouse.y - innerHeight/2) + innerHeight/2
     };;
     var mouseAng = Math.atan2((mouse.y - innerHeight/2),(mouse.x - innerWidth/2));
-    if (c3 && RD.pool && RD.pool[c3].activated == 1)
+    if (c3 && RD.pool && RD.pool[c3].activated == 1 && keys["Shift"])
     {
         var players = RD.pool;
         var thisPlayer = players[c3];
