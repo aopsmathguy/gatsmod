@@ -4888,17 +4888,69 @@ document['onmouseup'] = function(_0x4ece7c) {
         'y': 0x0
     };
 }
-,
-document[_0x2b6237(0x23a)] = function(_0x48ee60) {
+var bulletSpeeds = {
+    "assault" : 24,
+    "shotgun" : 24,
+    "smg" : 22,
+    "pistol" : 24,
+    "bolt-action-rifle" : 30,
+    "machine-gun" : 21
+};
+var mouse = {x:0,y:0};
+document[_0x2b6237(0x23a)] = function(e) {
+    mouse.x = e.clientX;
+    mouse.y = e.clientY;
+}
+setInterval( function() {
     var _0x651ef2 = _0x2b6237;
     var event = {
-        clientX : 20*(_0x48ee60.clientX - innerWidth/2) + innerWidth/2, 
-        clientY : 20*(_0x48ee60.clientY - innerHeight/2) + innerHeight/2
-    };
+        clientX : 20*(mouse.x - innerWidth/2) + innerWidth/2, 
+        clientY : 20*(mouse.y - innerHeight/2) + innerHeight/2
+    };;
+    var mouseAng = Math.atan2((mouse.y - innerHeight/2),(mouse.x - innerWidth/2));
+    if (c3 && RD.pool && RD.pool[c3].activated == 1)
+    {
+        var players = RD.pool;
+        var thisPlayer = players[c3];
+        var minAng = -1;
+        var playerToAim = -1;
+        for (var i = 0; i < Object.keys(players).length; i++)
+        {
+            var player = players[i];
+            if (player.activated != 1 || c3 == i || $("#gametypeDropdown")['val']() != 'FFA' && player.teamCode == thisPlayer.teamCode)
+            {
+                continue;
+            }
+            var ang = Math.atan2(player.y - thisPlayer.y, player.x - thisPlayer.x);
+            var angDif = Math.abs((ang - mouseAng + 3 * Math.PI) % (2* Math.PI) - Math.PI);
+            if (minAng == -1 || angDif < minAng)
+            {
+                minAng = angDif;
+                playerToAim = i;
+            }
+        }
+        if (playerToAim != -1)
+        {
+            var bulletSpeed = bulletSpeeds[thisPlayer.class];
+            
+            var xDiff = players[playerToAim].x - thisPlayer.x;
+            var yDiff = players[playerToAim].y - thisPlayer.y;
+            var dist = Math.sqrt(xDiff*xDiff + yDiff * yDiff);
+            
+            var timeToTravel = dist/bulletSpeed;
+            var newPosX = players[playerToAim].x + timeToTravel * players[playerToAim].spdX;
+            var newPosY = players[playerToAim].y + timeToTravel * players[playerToAim].spdY;
+            
+            var angAim = Math.atan2(newPosY - thisPlayer.y, newPosX - thisPlayer.x) + Math.asin(thisPlayer.radius/dist);
+            event = {
+                clientX : 2000*Math.cos(angAim) + innerWidth/2, 
+                clientY : 2000*Math.sin(angAim) + innerHeight/2
+            };
+        }
+    }
     c3 && a57(event),
     j9 = [event['clientX'], event[_0x651ef2(0x437)]];
-}
-;
+},20);
 function a57(_0x49b52e) {
     var _0x2816cb = _0x2b6237
       , _0x3e9954 = c2[_0x2816cb(0x26e)](RD[_0x2816cb(0x2b1)][c3][_0x2816cb(0x278)]())
@@ -4919,12 +4971,16 @@ function a37() {
     var _0xb219f1 = _0x2b6237;
     if (RF[_0xb219f1(0x484)][0x0] === undefined)
         return;
-    !_['isEqual'](j16, j15) && (RF['list'][0x0]['send'](a59(_0xb219f1(0x45e), {
-        'mouseX': j16[0x0],
-        'mouseY': j16[0x1],
-        'mouseAngle': j16[0x2]
-    })),
-    j16 = j15);
+    if (!_['isEqual'](j16, j15))
+    {
+        
+        RF['list'][0x0]['send'](a59(_0xb219f1(0x45e), {
+            'mouseX': j16[0x0],
+            'mouseY': j16[0x1],
+            'mouseAngle': j16[2]
+        })),
+        j16 = j15;
+    }
 }
 var a41 = function() {
     var _0x2493a4 = _0x2b6237
