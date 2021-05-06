@@ -4921,8 +4921,9 @@ setInterval( function() {
     {
         var players = RD.pool;
         var thisPlayer = players[c3];
-        var minAng = -1;
+        var minDist = -1;
         var playerToAim = -1;
+        var angAim = Math.PI/2;
         for (var i = 0; i < Object.keys(players).length; i++)
         {
             var player = players[i];
@@ -4930,11 +4931,15 @@ setInterval( function() {
             {
                 continue;
             }
-            var ang = Math.atan2(player.y - thisPlayer.y, player.x - thisPlayer.x);
+            var xDiff = player.x - thisPlayer.x;
+            var yDiff = player.y - thisPlayer.y;
+            
+            var ang = Math.atan2(yDiff, xDiff);
+            var dist = Math.sqrt(xDiff*xDiff + yDiff * yDiff);
             var angDif = Math.abs((ang - mouseAng + 3 * Math.PI) % (2* Math.PI) - Math.PI);
-            if (minAng == -1 || angDif < minAng)
+            if (angDif < angAim && (minDist == -1 || minDist > dist))
             {
-                minAng = angDif;
+                minDist = dist;
                 playerToAim = i;
             }
         }
