@@ -1,0 +1,974 @@
+body,html {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    overflow: hidden
+}
+
+button:focus {
+    outline: 0!important
+}
+
+.btn,.form-control,.modal-content {
+    border-radius: 0
+}
+
+#loading {
+    color: #f0f0f5;
+    background-color: #58585a;
+    position: absolute;
+    text-align: center;
+    vertical-align: middle;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-size: 48pt;
+    font-family: sans-serif;
+    font-weight: 700;
+    cursor: default;
+    z-index: 4;
+    width: 100%;
+    -webkit-animation: loading-fade 2s infinite;
+    -moz-animation: loading-fade 2s infinite;
+    -o-animation: loading-fade 2s infinite;
+    -ms-animation: loading-fade 2s infinite;
+    animation: loading-fade 2s infinite
+}
+
+.ad-group{
+	display:flex;
+	justify-content: center;
+}
+
+.ad-unit-container{
+	z-index: 2;
+	position: fixed;
+}
+
+#adRespawnLeft{
+	left:0;
+	bottom: 30%;
+}
+
+#adRespawnRight{
+	right:0;
+	bottom: 30%;
+}
+
+#adRespawnTop{
+	top:0;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#adHome{
+	bottom:0;
+	margin:0 auto;
+}
+
+@-webkit-keyframes loading-fade {
+    0% {
+        color: #f0f0f5
+    }
+
+    50% {
+        color: #58585a
+    }
+
+    100% {
+        color: #f0f0f5
+    }
+}
+
+@-moz-keyframes loading-fade {
+    0% {
+        color: #f0f0f5
+    }
+
+    50% {
+        color: #58585a
+    }
+
+    100% {
+        color: #f0f0f5
+    }
+}
+
+@-o-keyframes loading-fade {
+    0% {
+        color: #f0f0f5
+    }
+
+    50% {
+        color: #58585a
+    }
+
+    100% {
+        color: #f0f0f5
+    }
+}
+
+@-ms-keyframes loading-fade {
+    0% {
+        color: #f0f0f5
+    }
+
+    50% {
+        color: #58585a
+    }
+
+    100% {
+        color: #f0f0f5
+    }
+}
+
+@keyframes loading-fade {
+    0% {
+        color: #f0f0f5
+    }
+
+    50% {
+        color: #58585a
+    }
+
+    100% {
+        color: #f0f0f5
+    }
+}
+
+#cover {
+    height: 100%;
+    width: 100%;
+    background-color: #58585a;
+    z-index: 3
+}
+
+#youtubeIcon {
+    z-index: 2;
+    position: fixed;
+    top: 15px;
+    left: 5px
+}
+
+#featuredYoutuberHeader {
+    color: #c61b1f;
+    z-index: 2;
+    position: fixed;
+    font-family: arial;
+    font-weight: 700;
+    font-size: 14px;
+    top: -11px;
+    left: 45px
+}
+
+#featuredYoutuberName {
+    color: #c61b1f;
+    z-index: 3;
+    position: fixed;
+    font-family: arial;
+    font-weight: 700;
+    font-size: 18px;
+    top: 25px;
+    left: 45px
+}
+
+#featuredYoutuberInstructions {
+    color: #c61b1f;
+    z-index: 2;
+    position: fixed;
+    font-family: arial;
+    font-size: 13px;
+    top: 55px;
+    left: 6px;
+    line-height: 12pt
+}
+
+#featuredGameThumbnail {
+    z-index: 3;
+    position: fixed;
+    width: 12vw;
+    height: 7vw;
+    left: 8px;
+    top: 8px;
+    outline: 2px #58585a solid
+}
+
+#featuredGameThumbnail:hover {
+    outline: 4px #58585a solid;
+    cursor: pointer
+}
+
+#fgc {
+    display: none
+}
+
+#lgc {
+    position: fixed;
+    display: block;
+    width: 100%;
+    text-align: center;
+    z-index: 2;
+    top: 3px
+}
+
+#gatsLogo {
+    width: 16%;
+    height: 8%
+}
+
+.auth-btn:active,.auth-btn:focus,.auth-btn:hover,.auth-btn:pressed {
+    color: #b3b3b3
+}
+
+.auth-btn {
+    color: #fff;
+    background-color: #58585a
+}
+
+#actrls {
+    position: fixed;
+    display: none;
+    z-index: 2;
+    top: 3px;
+    right: 3px
+}
+
+#lgState {
+    color: #a01919;
+    font-size: 18px;
+    position: fixed;
+    display: none;
+    z-index: 2;
+    top: 55px;
+    right: 3px
+}
+
+#hscrs {
+    width: 13%;
+    color: #58585a;
+    font-size: 16px;
+    position: fixed;
+    display: none;
+    z-index: 2;
+    top: 135px;
+    right: 5px
+}
+
+#highScoresHeading {
+    margin-bottom: 0
+}
+
+#hsd {
+    display: flex;
+    flex-direction: column
+}
+
+.high-score-row {
+    display: flex;
+    flex-direction: row
+}
+
+.high-scores-text {
+    flex: 1
+}
+
+.vip-image-div {
+    margin-left: -20px;
+    display: flex;
+    flex: 0 0 10%
+}
+
+.vip-score-image {
+    margin-top: 5px;
+    margin-right: 5px;
+    width: 22px;
+    height: 12px
+}
+
+#slct {
+    position: fixed;
+    display: inline-block;
+    white-space: nowrap;
+    width: 65%;
+    margin-left: 18%;
+    margin-right: 18%;
+    margin-top: 8%;
+    background-color: rgba(191,191,192,.7);
+    z-index: 2;
+    padding: 10px
+}
+
+#weaponSelectionContainer {
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    z-index: 2;
+    left: 0;
+    top: 0;
+    width: 100%
+}
+
+#weaponBacking {
+    background-color: #58585a
+}
+
+#weaponTitle {
+    color: #FFF;
+    background-color: #58585a;
+    font-family: arial;
+    font-weight: 700;
+    font-size: 16px;
+    margin: 0;
+    padding-top: 10px;
+    width: 16%
+}
+
+.weaponSelector {
+    width: 13%;
+    height: 13%;
+    -ms-transform: rotate(270deg);
+    -webkit-transform: rotate(270deg);
+    transform: rotate(270deg);
+    display: inline-block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    cursor: pointer;
+    background-color: #cbcbcd;
+    user-drag: none;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none
+}
+
+.weaponSelector:hover {
+    border: 7px solid #000
+}
+
+#colorSelectionContainer {
+    position: relative;
+    display: inline;
+    text-align: center;
+    float: left;
+    z-index: 2;
+    margin-top: 10px;
+    width: 40%
+}
+
+#colorTitle {
+    color: #FFF;
+    background-color: #58585a;
+    font-family: arial;
+    font-weight: 700;
+    font-size: 16px;
+    margin: 0;
+    padding-top: 10px;
+    width: 32%
+}
+
+#colorBacking {
+    background-color: #58585a
+}
+
+.colorSelector {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: inline-block;
+    width: 12%;
+    cursor: pointer;
+    user-drag: none;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none
+}
+
+.colorSelector:hover {
+    border: 7px solid #000
+}
+
+#armorSelectionContainer {
+    position: relative;
+    display: inline;
+    float: left;
+    text-align: center;
+    z-index: 2;
+    width: 26%;
+    margin-left: 10px;
+    margin-top: 10px
+}
+
+#armorTitle {
+    color: #FFF;
+    background-color: #58585a;
+    font-family: arial;
+    font-weight: 700;
+    font-size: 16px;
+    margin: 0;
+    padding-top: 10px;
+    width: 45%
+}
+
+#armorBacking {
+    background-color: #58585a
+}
+
+.armorSelector {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 18.5%;
+    display: inline-block;
+    cursor: pointer;
+    background-color: #cbcbcd;
+    user-drag: none;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none
+}
+
+.armorSelector:hover {
+    border: 7px solid #000
+}
+
+#playButtonContainer {
+	flex-direction: column;
+    position: relative;
+    display: inline;
+    float: right;
+    text-align: left;
+    z-index: 2;
+    width: 30%;
+    margin-left: 10px;
+	margin-top:10px;
+}
+
+#gametypeDropdown{
+	width:50%;
+	height:40px
+	border-radius:0px;
+	border-width: 4px;
+	border:solid 4px #767676;
+	text-align-last:center;
+}
+
+#gametypeDropdown:hover{
+	cursor:pointer;
+}
+
+#gametypeDropdown option{
+	font-weight: bold;
+	font-size:16px;
+}
+
+.game-btn, #gametypeDropdown{
+	display:flex;
+    border-style: solid;
+    color: #4c4c4d;
+    font-weight: 700;
+    user-drag: none;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none
+}
+
+#gameTypeButtonContainer{
+	display:flex;
+	flex-direction: row;
+	margin-top:5px;
+}
+
+#serversBtn {
+    height:40px;
+	width:50%;
+    font-size: 14px;
+    border-width: 4px;
+	padding:15px 25px;
+	margin-right:5px;
+	text-align: center;
+	display: flex;
+    align-items: center;
+    justify-content: center;
+	border:solid 4px #767676;
+}
+
+#serversBtn:hover {
+    background-color: #ead56a!important
+}
+
+#playButton {
+	display: flex;
+    background-color: #92CD8B;
+    width: 100%;
+	height:200%;
+    font-size: 50px;
+    display: none;
+    margin-top: 5px;
+	border:solid 5px #767676;
+}
+
+#playButton:hover {
+    background-color: #57b34d
+}
+
+#reconnectButton {
+	display: flex;
+    background-color: #FC0;
+    width: 100%;
+    height: 200%;
+    border-style: solid;
+    border-color: #58585a;
+    color: #4c4c4d;
+    border-width: 5px;
+    font-size: 30px;
+    font-weight: 700;
+    display: none;
+    user-drag: none;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    margin-top: 10px
+}
+
+#changeLog {
+    z-index: 2;
+    position: fixed;
+    left: 6px;
+    bottom: 40px;
+    text-align: left;
+    display: none
+}
+
+#changeLogLastUpdatedText {
+    font-family: arial;
+    font-weight: 700;
+    font-size: 16px;
+    color: #58585a;
+    text-align: left;
+    margin-bottom: 0
+}
+
+#infoFooter{
+    color: #FFF;
+    z-index: 2;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    background-color: #58585a;
+    padding: 3px 5px
+}
+
+#infoFooter a, #moreGamesFooter a{
+    font-size: 16px;
+    color: #FFF;
+    padding: 2px 7px
+}
+
+#moreGamesFooter{
+	color: #FFF;
+    z-index: 2;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    background-color: #58585a;
+    padding: 3px 5px
+}
+
+.alert {
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 0
+}
+
+a.plain-link {
+    color: #333;
+    cursor: pointer
+}
+
+.selected-box {
+    border: 7px solid #000
+}
+
+.margin-left-5px {
+    margin-left: 5px
+}
+
+.margin-left-20px {
+    margin-left: 20px
+}
+
+.margin-right-20px {
+    margin-right: 20px
+}
+
+#chatboxContainer {
+    position: fixed;
+    display: inline-block;
+    white-space: nowrap;
+    width: 18%;
+    height: 100%;
+    margin-left: 41%;
+    margin-right: 41%;
+    vertical-align: middle;
+    z-index: 2
+}
+
+#chatbox {
+    margin-top: 200%;
+    width: 100%;
+    border: 2px #58585a solid;
+    font-size: 20px
+}
+
+#canvas {
+    position: absolute;
+    z-index: 1;
+    background-color:lightblue;
+}
+
+.unselectable {
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-user-drag: none;
+    user-drag: none
+}
+
+#announcementMessage {
+    font-size: 17px;
+    font-weight: 700
+}
+
+.nav-tabs a{
+	color: #555;
+}
+
+.server-table td{
+	max-width:200px;
+	word-wrap: break-word;
+}
+
+.tab-content{
+	max-height:500px;
+	overflow-y: auto;
+}
+
+#shareServerDiv, #privateServerAlert, #privateServerInfo, 
+#connectToPrivateServerButton, #hostServerInfo, #hostServerError, 
+#endServerError, #hostServerTabLi, #alreadyConnectedAlert-public,
+#alreadyConnectedAlert-custom, #alreadyConnectedAlert-private, #alreadyConnectedAlert-host{
+	display:none;
+}
+
+#connectToPrivateServerButton, #connectToHostedServerButton{
+	margin-top:10px;
+}
+
+#hostedServerStateHeading{
+	font-size:22px;
+	margin-top:16px;
+}
+
+@media(max-width: 650px) {
+    #lgState {
+        font-size:12px;
+        top: 30px
+    }
+
+    #loginButton,#logoutButton,#registerButton {
+        padding: 3px 5px;
+        font-size: 14px
+    }
+
+    #playButtonContainer {
+        width: 25%;
+    }
+
+    #playButton {
+        font-size: 18px
+    }
+
+    #reconnectButton {
+        font-size: 12px
+    }
+
+    #domButton,#ffaButton,#tdmButton {
+        font-size: 6px
+    }
+
+    #featuredYoutuberInstructions {
+        display: none
+    }
+
+    #hscrs {
+        font-size: 10px
+    }
+
+    .vip-score-image {
+        margin-top: 2px;
+        width: 11px;
+        height: 6px
+    }
+}
+
+@media(min-width: 650px) and (max-width:849px) {
+    #lgState {
+        font-size:14px;
+        top: 40px
+    }
+
+    #loginButton,#logoutButton,#registerButton {
+        padding: 5px 8px
+    }
+
+    #reconnectButton {
+        font-size: 14px
+    }
+
+    #playButtonContainer {
+        width: 25%;
+    }
+
+    #playButton {
+        font-size: 18px
+    }
+
+    #domButton,#ffaButton,#tdmButton {
+        font-size: 8px
+    }
+
+    #featuredYoutuberInstructions {
+        display: none
+    }
+
+    #hscrs {
+        font-size: 11px
+    }
+
+    .vip-score-image {
+        margin-top: 3px;
+        width: 14px;
+        height: 9px
+    }
+}
+
+@media(min-width: 850px) and (max-width:1059px) {
+    #lgState {
+        font-size:14px;
+        top: 40px
+    }
+
+    #loginButton,#logoutButton,#registerButton {
+        padding: 5px 8px
+    }
+
+    #featuredYoutuberInstructions {
+        display: none
+    }
+
+    #reconnectButton {
+        font-size: 18px
+    }
+
+    #playButtonContainer {
+        width: 27%;
+    }
+
+    #playButton {
+        font-size: 18px
+    }
+
+    #hscrs {
+        font-size: 13px
+    }
+
+    .vip-score-image {
+        margin-top: 3px;
+        width: 14px;
+        height: 9px
+    }
+
+    #domButton,#ffaButton,#tdmButton {
+        font-size: 10px
+    }
+}
+
+.grecaptcha-badge {
+    visibility: hidden
+}
+
+#hostServerButton{
+	width:100%;
+}
+
+@media(min-width: 1060px) {
+    #playButtonContainer {
+        width:30%;
+    }
+
+    #playButton {
+        font-size: 36px
+    }
+
+    #reconnectButton {
+        font-size: 20px
+    }
+}
+
+@media (max-width:660px) {
+    #adHome {
+        display:none !important;
+    }
+}
+
+@media (max-height: 450px) and (min-width:661px) {
+    #adHome {
+        display:none !important;
+    }
+}
+
+@media (max-height: 500px) and (min-width:700px) {
+    #adHome {
+        display:none !important;
+    }
+}
+
+@media (max-height: 520px) and (min-width:800px) {
+    #adHome {
+        display:none !important;
+    }
+}
+
+@media (max-height: 530px) and (min-width:900px) {
+    #adHome {
+        display:none !important;
+    }
+}
+
+@media (max-height: 580px) and (min-width:1000px) {
+    #adHome {
+        display:none !important;
+    }
+}
+
+@media (max-height: 630px) and (min-width:1100px) {
+    #adHome {
+        display:none !important;
+    }
+}
+
+@media (max-height: 650px) and (min-width:1200px) {
+    #adHome {
+        display:none !important;
+    }
+}
+
+@media (max-height: 685px) and (min-width:1300px) {
+    #adHome {
+        display:none !important;
+    }
+}
+
+@media (max-height: 700px) and (min-width:1400px) {
+    #adHome {
+        display:none !important;
+    }
+}
+
+@media (max-height: 740px) and (min-width:1500px) {
+    #adHome {
+        display:none !important;
+    }
+}
+
+@media (max-height: 775px) and (min-width:1600px) {
+    #adHome {
+        display:none !important;
+    }
+}
+
+@media (max-height: 800px) and (min-width:1700px) {
+    #adHome {
+        display:none !important;
+    }
+}
+
+@media (max-height: 820px) and (min-width:1800px) {
+    #adHome {
+        display:none !important;
+    }
+}
+
+@media (max-height: 850px) and (min-width:1900px) {
+    #adHome {
+        display:none !important;
+    }
+}
+
+@media (max-height: 875px) and (min-width: 2000px) {
+    #adHome {
+        display:none !important;
+    }
+}
+
+@media (max-height: 900px) and (min-width: 2100px) {
+    #adHome {
+        display:none !important;
+    }
+}
+
+@media (max-height: 910px) and (min-width: 2200px) {
+    #adHome {
+        display:none !important;
+    }
+}
+
+@media (max-height: 920px) and (min-width: 2300px) {
+    #adHome {
+        display:none !important;
+    }
+}
+
+@media (max-height: 930px) and (min-width: 2400px) {
+    #adHome {
+        display:none !important;
+    }
+}
+
+@media (max-height: 940px) and (min-width: 2500px) {
+    #adHome {
+        display:none !important;
+    }
+}
+
+@media (max-height: 950px) and (min-width: 2600px) {
+    #adHome {
+        display:none !important;
+    }
+}
+
+@media (min-width: 2601px) {
+    #adHome {
+        display:none !important;
+    }
+}
+
+@media (max-width:900px){
+	#serversBtn{
+		font-size: 10px;
+	}
+}
+
+@media (max-width:1100px){
+	.selected-box {
+		border: 3px solid #000
+	}
+}
