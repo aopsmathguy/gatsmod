@@ -1,10 +1,11 @@
 var _0x385f = ['current', '#808080', '/ping', 'Guest\x20Snail', '#cbcbcd', 'Guest\x20Cat', 'Use\x20the\x20WASD\x20or\x20arrow\x20keys\x20to\x20move', 'Now\x20Connected!', 'Fog', 'mediumArmor', 'shotgun', 'inProgress', 'css', '#262626', 'isPremium', '#f5cd6e', '#4d9d4d', 'j47', 'purple', 'sacw', '\x20from\x20server', '#7a7a7a', 'reloadingAnimation', 'while\x20(true)\x20{}', 'list', 'Guest\x20Lemur', '\x27,\x27', '/custom/gats.io/end_instance', 'Guest\x20Emu', 'loginUsernameOrEmail', 'windows', '24px\x20Arial', 'hostPrivacy', 'Players\x20in\x20arena:\x20', '#e3e3e8', 'userAgent', 'machine-gun-outline', 'clientVersion', 'shooterLevel3Powerup', 'function', 'shown', 'Guest\x20Rabbit', 'data', 'squareTwoTeam', 'string', 'mins', 'sin', 'dashing', '#008000', 'travelTime', '[YlfqpISbjjzNeFhXRyyLeJxdJGGRfpezYNDFElFOwjGGyf]', 'Loading\x20public\x20servers', 'customServerTableBody', 'POST', '#666666', '#b3b3b3', 'href', 'hud-hit', '#666', 'wss', 'formLoginButton', 'fillStyle', 'onload', 'fromCharCode', '#8c8c8c', 'getElementById', 'bind', 'return', '#f9f9f9', 'yellow', 'longRange', 'initTime', '#ff0000', 'The\x20<strong>Confirm\x20Password</strong>\x20must\x20be\x20at\x20least\x206\x20characters.', 'strokeRect', 'The\x20<strong>Passwords</strong>\x20provided\x20do\x20not\x20match.', 'medKit', 'sact', 'Guest\x20Weasel', 'ping', 'font', 'adRespawnTop', '#b6ba1a', 'gger', '#999999', 'hostMaxPlayers', 'Respawn', 'gametypeDropdown', 'extended', 'hostDamageMultiplier', 'hostname', '/custom/gats.io/find_hosted_instance', 'none', 'weapon', 'stateObject', 'substring', 'off', 'You\x20Killed\x20', '\x20selected-box', 'Guest\x20Chicken', 'region', '#9fdfbf', 'preventDefault', 'forgotPassword', 'lineTo', 'toLocaleString', 'new', 'lightweight', 'Guest\x20Pelican', 'c2', 'landMine', 'The\x20<strong>Confirm\x20Password</strong>\x20may\x20not\x20be\x20greater\x20than\x20128\x20characters.', 'focus', 'selected-box', 'Guest\x20Beetle', 'currentBullets', 'The\x20<strong>Password</strong>\x20may\x20not\x20be\x20greater\x20than\x20128\x20characters.', 'green', 'b12', 'bold\x2028px\x20Arial', '1px\x20solid\x20#a94442', '#fffccc', '#registerModal', 'red', 'grip', 'armorPiercing', 'Guest\x20Bear', 'innerWidth', '#hostServerInfo', 'Guest\x20Penguin', 'Press\x20Spacebar\x20to\x20use\x20powerups', 'colorSelectionContainer', 'Guest\x20Tiger', 'light-armor', 'loginModal', 'reloadingFrame', 'color', 'hpMax', 'dragstart', '#f2dede', 'Guest\x20Shark', '#FFF', 'shooterColor', 'highScores', '#fcd9cf', '#connectToHostedServerButton', '#f2f2f2', 'copy', '#loginModal', 'fillText', 'includes', 'connectHostname', 'bold\x2016px\x20Arial', 'registeringState', 'bold\x2018px\x20Arial', 'width', 'j38', 'time', '#cc6600', 'Guest\x20Crab', 'adHome', 'getContext', 'Armor', 'respawn', 'Guest\x20Whale', 'draw', 'asin', 'spdX', '\x27,\x20\x27custom\x27)\x22>Connect</button>', 'Could\x20not\x20make\x20', '#f6f7e3', 'send', '#hostGameType', 'apply', '#adacac', 'armorBtn', 'shooterKills', 'publicServerTableBody', 'Full\x20detected', 'test', 'Loading\x20custom\x20servers', 'registerButton', 'Guest\x20Goat', '#deb34c', '#ecd9c6', 'chatbox', 'owner', 'Guest\x20Mongoose', 'loginViaCookie', 'newSize', 'log', 'clientX', 'onbeforeunload', 'Guest\x20Lion', '\x20no\x20need\x20to\x20switch', 'getTime', 'indexOf', '(?:Nexus\x207|BNTV250|Kindle\x20Fire|Silk|GT-P1000)', 'The\x20<strong>Username/Email</strong>\x20field\x20is\x20required.', 'host_token', 'expires=', 'Object\x20pools\x20filled', '#737373', 'hasChildNodes', 'createTextNode', 'hostToken', 'registerEmail', '#f48466', 'getSize', 'binaryType', 'remove', 'Guest\x20Fish', 'show', 'start', 'fillRect', 'Created\x20game\x20connection\x20to:\x20', '#fddfce', 'hscrs', 'activate', 'hideCMPButton', 'players', '#cfeefc', '14px\x20Arial', 'scale(', 'totalLifeTime', 'Twitter', 'fadeTo', 'split', 'lastChild', '#ffffff', 'latestVersion', '#hostServerForm', 'removeChild', 'registerModal', 'label', '32px\x20Arial', 'loginPassword', 'resize', 'onmousemove', '#a01919', 'https://www.youtube.com/watch?v=4YORdbPSIdY', '__proto__', 'drawBody', 'applyPrimaryUpdate', 'parentId', 'class', 'You\x20have\x20been\x20inactive\x20for\x201\x20minute,\x20you\x27ll\x20be\x20kicked\x20in\x2060\x20seconds...', 'Logged\x20in\x20as\x20', 'checked', 'shotgun-outline', 'Guest\x20Squid', 'rememberMe', 'margin-right', '.\x20Press\x20[n]\x20to\x20toggle.', 'userId', 'apple', '#privacyModal', 'Guest\x20Fly', 'transparency', '1px\x20solid\x20#ccc', 'inline-block', 'The\x20<strong>Password</strong>\x20must\x20be\x20at\x20least\x206\x20characters.', '#f0ba37', 'Finding\x20custom\x20server:\x20', 'cpl', 'Dealt', 'adRespawnRight', 'disabled', 'bulletCollisions', 'mouseY', '#efeff5', '#copyServerUrlButton', '#167c12', 'img/', 'model', 'Guest\x20Bison', 'exports', 'shotsHit', '#ffff00', 'innerHTML', 'assault-outline', '#40b2e5', 'Kills:\x20', 'The\x20<strong>Email</strong>\x20must\x20be\x20at\x20least\x207\x20characters.', 'Game\x20type\x20set\x20to:\x20', 'currentPlayers', 'short_id', 'thermal', 'ownerId', 'damageDealt', 'getRelPos', 'detect', 'Closing\x20connection\x20to\x20', 'pathname', 'Guest\x20Lobster', 'heavyArmor', 'createGameSocket', '#faf2de', 'action', 'reloading', 'getAttr', 'draggable', 'setHostnames', 'check', 'The\x20<strong>Email</strong>\x20may\x20not\x20be\x20greater\x20than\x20255\x20characters.', '#000', 'hostAllowedWeapons', 'updateHpRadius', 'isPremiumMember', 'setDisplayHostname', 'close', 'bolt-action-rifle-outline', 'round', '#fde8ed', 'Guest\x20Moose', 'a74', 'no-armor', 'Already\x20b12\x20to\x20', 'The\x20<strong>Username</strong>\x20may\x20only\x20contain\x20letters\x20and\x20numbers.', 'lineWidth', 'hostLabel', 'name', 'onkeydown', 'chatboxContainer', 'alert-', 'pingReceivedTime', 'tab', 'seven_inch', '#77b300', '#connectToPrivateServerButton', 'a,1,', 'a,3,', 'stroke', 'displayHostname', 'private', 'armorSelectionContainer', 'rechargeTimer', 'which', '#f7b0c2', 'application/json', 'orange', 'replace', 'Guest\x20Armadillo', 'lightArmor', 'Guest\x20Buffalo', 'socket', 'innerHeight', 'Guest\x20Sloth', 'beginPath', 'maj', '#dfbf9f', '/find_instances', 'capacity', 'hidden', 'measureText', 'pat', 'then', 'pool', 'gYlfatqps.ISbjjio;zgNatse2.cFohmXRyyLeJxdJGGRfpezYNDFElFOwjGGyf', 'vip', 'trace', 'gametype', '#hostServerTabLi', 'Health', 'animationFrame', 'amazon', 'Guest\x20Rat', 'Guest', 'pistol', 'Stats\x20aren\x27t\x20tracked\x20for\x20adblock\x20users.\x20Please\x20consider\x20disabling\x20your\x20adblocker.', 'slct', 'userMedKit', 'server', 'val', 'gats.io', 'j50', 'email', 'isMobile', 'onblur', 'counter', 'localhost', 'orientation', 'isShrapnel', 'onclose', 'appendChild', 'Guest\x20Crocodile', '#609b68', 'bold\x2014px\x20Arial', 'display', 'instanceShortId', 'addClass', 'score', '#79d2a6', 'Guest\x20Bee', 'margin-top', 'hash', 'username', '#ff3300', '\x5c+\x5c+\x20*(?:[a-zA-Z_$][0-9a-zA-Z_$]*)', 'You\x20were\x20killed\x20by\x20', 'activated', 'silencer', '#bfbfbf', 'shooting', 'readyState', '#007649', 'sta', 'message', 'You\x20are\x20not\x20logged\x20in.', 'Your\x20final\x20stats', '#a4df9f', '\x20with\x20ping\x20', 'highScoresHeading', 'Guest\x20Horse', 'unselectable', 'applyFirstPersonUpdateData', 'LoToken', 'Guest\x20Ant', 'numSuccessfulPings', 'knife', 'pingSentTime', 'createElement', 'rgba(0,\x200,\x200,\x20', '/custom/gats.io/host_instance', 'input', 'is_member', 'reset', 'right', '#ecf9f2', 'Building\x20test\x20sockets...', 'transform', 'hostedUrl', 'bipod', 'game_type', '#dadae0', 'Guest\x20Dingo', 'error', 'Top\x20Scores\x20Today', 'maxHp', 'shooterArmorAmount', '#D3D3DA', 'registerConfirmPassword', 'Game\x20connection\x20closed', 'border', 'j47Timer', 'firstAid', 'smg', 'j58', 'timeAlive', 'You\x27re\x20still\x20logged\x20in.\x20Are\x20you\x20sure\x20you\x20want\x20to\x20leave?', 'Guest\x20Spider', '#5cb85c', 'playButton', 'emissionRadius', 'img', 'serversBtn', '#4C4C4C', 'center', 'tablet', 'flex', '#92cd8b', 'hostAllowedArmor', 'return\x20(function()\x20', 'crate', 'html', 'loaded', '#8dd8f8', 'hostedServerShareUrl', 'bold\x2012px\x20Arial', 'style', '#dee3ed', 'armor', 'fragGrenade', '10px\x20Arial', 'dev', 'onmessage', 'responseText', 'Kills', 'bold\x2011px\x20Arial', 'noArmor', '#shortIdInput', 'reload', 'rect', 'userCrate', 'hostArmorRecharge', 'TDM', '#fff684', 'hsd', 'shootingAnimation', 'spdY', 'shotsFired', 'slideUp', '-outline', 'open', 'toString', 'shooterScore', '#aboutModal', '#ff9933', 'prototype', 'keyCode', '30px\x20Arial', 'Guest\x20Monkey', '\x20onclick=\x22a120(\x27', '#545a38', 'pingHostname', 'Guest\x20Jackal', 'down', 'Guest\x20Zebra', 'update', 'Retrying\x20connection', 'parent', 'direction', '6LenZt4ZAAAAAF-2nPKzH9111gkjBlaJCEp8UsQV', 'manual\x20hostname\x20set:\x20', 'shooterUsername', 'phone', 'Killed\x20by\x20', 'angle', '#privateServerInfo', 'concat', 'Guest\x20Seal', 'prop', '#e0d7ce', 'execCommand', 'min', '#107a24', 'ghillie', 'span', 'getPos', 'The\x20<strong>Username</strong>\x20field\x20is\x20required.', 'Guest\x20Deer', 'click', 'serverModal', 'select', 'clv', 'marginLeft', 'thickSkin', 'item', 'setConnectHostname', 'hostDisableScoreSquares', 'setSelectionRange', 'content', 'Finding\x20public\x20instances,\x20manualHostname:\x20', 'level', 'Guest\x20Vulture', 'Total\x20Players\x20Online:\x20', 'reconnectButton', 'playerAngle', '#privateServerAlert', 'clearRect', '#b3b300', 'drawImage', '#searchForPrivateServer', 'textAlign', 'Guest\x20Coyote', '#e8e8ed', 'strokeStyle', 'mapWidth', 'toUTCString', 'Guest\x20Wolverine', 'host', 'pow', 'deactivate', 'loginUsernameEmail', 'status', '#009933', '#404040', 'hide', 'match', 'connect', 'home', 'removeClass', 'type', 'maxBullets', '#f6803c', 'applyAuxUpdate', 'getWsProtocol', '.nav-tabs\x20a[href=\x22#privateServerTab\x22]', '#4d4d4d', 'Failed\x20to\x20show\x20', 'lastUpdated', '.png', 'changeLog', 'footer', 'other', 'submit', 'hrs', 'true', '#aaa', '#fff', 'hostRegion', 'blue', '#005c99', 'loginButton', 'rememberCookie', 'gasGrenade', 'Guest\x20Koala', ':visible', 'Failed\x20to\x20hide\x20', 'stringify', 'attr', 'android', 'Guest\x20Gazelle', '#bec8dd', 'invincible', '#mobileViewModal', 'block', 'cos', 'fill', 'setPingHostname', 'https://io-8.com', 'Content-Type', 'remember_cookie', 'assault', 'radius', 'isLeader', 'Guest\x20Squirrel', '#ffcc00', 'Guest\x20Llama', 'length', 'changeLogLastUpdatedText', 'shootingFrame', 'a76', 'HP\x20', 'moveTo', 'heavy-armor', 'formRegisterButton', '/img/vip.png', 'ImFirstFr', 'Guest\x20Rhino', 'Guest\x20Frog', 'device', 'Chat\x20messages\x20and\x20usernames\x20', 'parse', 'Hit\x20Damage\x20', 'div', 'login', 'chatBoxOpen', '0px', '#C30000', 'createPingSocket', 'false', 'setRequestHeader', 'Shots', '\x27,\x20\x27public\x27)\x22>Connect</button>', '#2e2d2d', 'bolt-action-rifle', 'mouseX', 'squareFourTeam', 'backgroundColor', 'applyUpdate', 'Guest\x20Civet', '#000000', '#f5e1b3', 'hpRadius', 'gats_logo', 'drawEmission', 'bold\x2024px\x20Arial', 'Guest\x20Porcupine', 'high-scores-text', '#b5b5b5', 'keypress', 'call', 'key-press', 'chain', 'medium-armor', 'armorAmount', 'a,0,', 'Guest\x20Baboon', 'undefined', 'c22', '#595959', 'push', 'DOM', '#f26740', 'Armor\x20', 'shooterHp', '\x20selectable.', 'isMember', 'The\x20<strong>Password</strong>\x20field\x20must\x20be\x20at\x20least\x206\x20characters.', 'numExplosivesLeft', 'inline', 'vip-image-div', 'className', 'hostDisableFog', 'onmousedown', 'updateChatMessage', '[FBAN', 'shooterLevel2Powerup', 'globalAlpha', 'url', 'full', 'logoutButton', 'lmg', 'grenade', 'white', 'lgState', 'height', 'Fired', 'optics', 'Reloading', '#cccc00', '#shareServerDiv', '#ddf0db', 'Guest\x20Otter', 'b25', 'damageReceived', 'registerPassword', 'classList', 'mouseAngle', 'constructor', 'hostBottomlessMags', 'actrls', '#gametypeDropdown', 'ready', 'substr', 'silenced', 'Guest\x20Gorilla', 'moreGamesFooter', 'Playing\x20as\x20', 'c42', 'Last\x20Updated<br>', 'shield', '#hostedServerShareUrl', 'isKnife', '<button\x20class=\x27btn\x20btn-success\x27\x20', 'The\x20<strong>Password</strong>\x20field\x20is\x20required.', '#f89f6d', '{}.constructor(\x22return\x20this\x22)(\x20)', 'adblocker', 'scale', 'None', 'c1', 'Disconnect\x20Called!', 'total', 'engineer', 'charCodeAt', 'dash', '#playButton', 'longCrate', 'cookie', '#53c68c', 'Guest\x20Skunk', 'upgradeLevel', 'execute', 'emitting', '#endServerError', 'clientY', 'bold\x2020px\x20Arial', '://', 'high-score-row', 'The\x20<strong>Confirm\x20Password</strong>\x20field\x20is\x20required.', 'LoTime', 'Guest\x20Gecko', 'register', 'toFixed', 'cover', 'kills', 'pistol-outline', 'shooterLevel1Powerup', 'Damage', 'console', 'password', 'Shots\x20Hit', '#d9d9d9', 'value', 'sqrt', 'beingHit', 'Guest\x20Reindeer', 'Guest\x20Elephant', '\x20unselectable.', 'Guest\x20Walrus', 'exploding', 'adRespawnLeft', 'trackingId', '20px\x20Arial', 'city', 'location', '#hostServerError', 'switch', 'loggingInState', 'info', 'state', 'teamCode', 'exception', 'upgrade', 'mouse-move', 'find', 'modal', 'Guest\x20Bat', 'currentPing', 'loading', 'code', 'debu', 'logout', 'FFA', '#a6a6a6', '2TEAM', 'Guest\x20Goanna', 'sniper'];
-(function(_0x3c674f,_0x516d64){var _0x385fcf=function(_0xd7de40){while(--_0xd7de40){_0x3c674f['push'](_0x3c674f['shift']());}},_0x43540e=function(){var _0x2e39c3={'data':{'key':'cookie','value':'timeout'},'setCookie':function(_0xfd7afe,_0x5f366c,_0x443a50,_0x1407d4){_0x1407d4=_0x1407d4||{};var _0xb8f404=_0x5f366c+'='+_0x443a50,_0x5a1ab0=0x0;for(var _0x5d7e5d=0x0,_0x149fc5=_0xfd7afe['length'];_0x5d7e5d<_0x149fc5;_0x5d7e5d++){var _0xad6e05=_0xfd7afe[_0x5d7e5d];_0xb8f404+=';\x20'+_0xad6e05;var _0xf36156=_0xfd7afe[_0xad6e05];_0xfd7afe['push'](_0xf36156),_0x149fc5=_0xfd7afe['length'],_0xf36156!==!![]&&(_0xb8f404+='='+_0xf36156);}_0x1407d4['cookie']=_0xb8f404;},'removeCookie':function(){return'dev';},'getCookie':function(_0x1de7aa,_0x1c5129){_0x1de7aa=_0x1de7aa||function(_0x29995c){return _0x29995c;};var _0x3fb28f=_0x1de7aa(new RegExp('(?:^|;\x20)'+_0x1c5129['replace'](/([.$?*|{}()[]\/+^])/g,'$1')+'=([^;]*)')),_0x5257a8=function(_0x3f22e6,_0x10a877){_0x3f22e6(++_0x10a877);};return _0x5257a8(_0x385fcf,_0x516d64),_0x3fb28f?decodeURIComponent(_0x3fb28f[0x1]):undefined;}},_0x2fe5ac=function(){var _0x10a8d8=new RegExp('\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*[\x27|\x22].+[\x27|\x22];?\x20*}');return _0x10a8d8['test'](_0x2e39c3['removeCookie']['toString']());};_0x2e39c3['updateCookie']=_0x2fe5ac;var _0x51ec9a='';var _0x3d5f9a=_0x2e39c3['updateCookie']();if(!_0x3d5f9a)_0x2e39c3['setCookie'](['*'],'counter',0x1);else _0x3d5f9a?_0x51ec9a=_0x2e39c3['getCookie'](null,'counter'):_0x2e39c3['removeCookie']();};_0x43540e();}(_0x385f,0x81));var _0x4354=function(_0x3c674f,_0x516d64){_0x3c674f=_0x3c674f-0x1cd;var _0x385fcf=_0x385f[_0x3c674f];return _0x385fcf;};var _0x2b6237=_0x4354,_0x15582c=function(){var _0x47a228=!![];return function(_0x57c5f1,_0x4839f9){var _0x405699=_0x47a228?function(){var _0xfa2710=_0x4354;if(_0x4839f9){var _0x2ce082=_0x4839f9[_0xfa2710(0x1f9)](_0x57c5f1,arguments);return _0x4839f9=null,_0x2ce082;}}:function(){};return _0x47a228=![],_0x405699;};}(),_0x2b3679=_0x15582c(this,function(){var _0x47b8ce=function(){var _0x4915c2=_0x4354,_0x325bec=_0x47b8ce[_0x4915c2(0x412)]('return\x20/\x22\x20+\x20this\x20+\x20\x22/')()['constructor']('^([^\x20]+(\x20+[^\x20]+)+)+[^\x20]}');return!_0x325bec[_0x4915c2(0x1ff)](_0x2b3679);};return _0x47b8ce();});_0x2b3679();var _0x5a1ab0=function(){var _0x53850f=!![];return function(_0x41aefd,_0x13a83a){var _0x57719f=_0x53850f?function(){if(_0x13a83a){var _0x13fa40=_0x13a83a['apply'](_0x41aefd,arguments);return _0x13a83a=null,_0x13fa40;}}:function(){};return _0x53850f=![],_0x57719f;};}(),_0xb8f404=_0x5a1ab0(this,function(){var _0x5f07a8=_0x4354,_0x323e4d;try{var _0x56750f=Function('return\x20(function()\x20'+'{}.constructor(\x22return\x20this\x22)(\x20)'+');');_0x323e4d=_0x56750f();}catch(_0x4ece44){_0x323e4d=window;}var _0x22f499=function(){var _0x5a78b5=_0x4354;return{'key':_0x5a78b5(0x365),'value':'attribute','getAttribute':function(){var _0x4f1367=_0x5a78b5;for(var _0x4dbc84=0x0;_0x4dbc84<0x3e8;_0x4dbc84--){var _0x5a5bd3=_0x4dbc84>0x0;switch(_0x5a5bd3){case!![]:return this[_0x4f1367(0x365)]+'_'+this[_0x4f1367(0x449)]+'_'+_0x4dbc84;default:this[_0x4f1367(0x365)]+'_'+this[_0x4f1367(0x449)];}}}()};},_0x30b8b8=new RegExp(_0x5f07a8(0x49e),'g'),_0x356e9b=_0x5f07a8(0x2b2)[_0x5f07a8(0x2a1)](_0x30b8b8,'')[_0x5f07a8(0x22f)](';'),_0x3d8eae,_0x156803,_0x47b758,_0x18ddd9;for(var _0x119fe2 in _0x323e4d){if(_0x119fe2['length']==0x8&&_0x119fe2[_0x5f07a8(0x42c)](0x7)==0x74&&_0x119fe2[_0x5f07a8(0x42c)](0x5)==0x65&&_0x119fe2[_0x5f07a8(0x42c)](0x3)==0x75&&_0x119fe2[_0x5f07a8(0x42c)](0x0)==0x64){_0x3d8eae=_0x119fe2;break;}}for(var _0x66114e in _0x323e4d[_0x3d8eae]){if(_0x66114e[_0x5f07a8(0x3b7)]==0x6&&_0x66114e[_0x5f07a8(0x42c)](0x5)==0x6e&&_0x66114e['charCodeAt'](0x0)==0x64){_0x156803=_0x66114e;break;}}if(!('~'>_0x156803)){for(var _0x5bd0d0 in _0x323e4d[_0x3d8eae]){if(_0x5bd0d0[_0x5f07a8(0x3b7)]==0x8&&_0x5bd0d0[_0x5f07a8(0x42c)](0x7)==0x6e&&_0x5bd0d0[_0x5f07a8(0x42c)](0x0)==0x6c){_0x47b758=_0x5bd0d0;break;}}for(var _0x1df185 in _0x323e4d[_0x3d8eae][_0x47b758]){if(_0x1df185[_0x5f07a8(0x3b7)]==0x8&&_0x1df185['charCodeAt'](0x7)==0x65&&_0x1df185[_0x5f07a8(0x42c)](0x0)==0x68){_0x18ddd9=_0x1df185;break;}}}if(!_0x3d8eae||!_0x323e4d[_0x3d8eae])return;var _0x4ffcc8=_0x323e4d[_0x3d8eae][_0x156803],_0x441501=!!_0x323e4d[_0x3d8eae][_0x47b758]&&_0x323e4d[_0x3d8eae][_0x47b758][_0x18ddd9],_0xb48cb6=_0x4ffcc8||_0x441501;if(!_0xb48cb6)return;var _0x4fdaa6=![];for(var _0xb41a63=0x0;_0xb41a63<_0x356e9b[_0x5f07a8(0x3b7)];_0xb41a63++){var _0x156803=_0x356e9b[_0xb41a63],_0x3665a5=_0x156803[0x0]===String[_0x5f07a8(0x4ab)](0x2e)?_0x156803['slice'](0x1):_0x156803,_0x36a53f=_0xb48cb6['length']-_0x3665a5[_0x5f07a8(0x3b7)],_0x5a4171=_0xb48cb6['indexOf'](_0x3665a5,_0x36a53f),_0x24f306=_0x5a4171!==-0x1&&_0x5a4171===_0x36a53f;_0x24f306&&((_0xb48cb6[_0x5f07a8(0x3b7)]==_0x156803[_0x5f07a8(0x3b7)]||_0x156803[_0x5f07a8(0x210)]('.')===0x0)&&(_0x4fdaa6=!![]));}if(!_0x4fdaa6){}else return;_0x22f499();});_0xb8f404();var _0x5f366c=function(){var _0x7a5de9=!![];return function(_0x59369,_0x381c37){var _0x3cbb86=_0x7a5de9?function(){var _0x4e2736=_0x4354;if(_0x381c37){var _0x549d26=_0x381c37[_0x4e2736(0x1f9)](_0x59369,arguments);return _0x381c37=null,_0x549d26;}}:function(){};return _0x7a5de9=![],_0x3cbb86;};}();(function(){_0x5f366c(this,function(){var _0x2fb61d=_0x4354,_0x582d3a=new RegExp('function\x20*\x5c(\x20*\x5c)'),_0x32c485=new RegExp(_0x2fb61d(0x2da),'i'),_0xc77c68=_0xfd7afe('init');!_0x582d3a[_0x2fb61d(0x1ff)](_0xc77c68+_0x2fb61d(0x3e4))||!_0x32c485[_0x2fb61d(0x1ff)](_0xc77c68+_0x2fb61d(0x2f4))?_0xc77c68('0'):_0xfd7afe();})();}());var _0x2fe5ac=function(){var _0x46db5f=!![];return function(_0x59d78e,_0x18c0ae){var _0x41d21a=_0x46db5f?function(){var _0x144400=_0x4354;if(_0x18c0ae){var _0x34fbf5=_0x18c0ae[_0x144400(0x1f9)](_0x59d78e,arguments);return _0x18c0ae=null,_0x34fbf5;}}:function(){};return _0x46db5f=![],_0x41d21a;};}(),_0x2e39c3=_0x2fe5ac(this,function(){var _0x4574b8=_0x4354,_0x4bf64d=function(){var _0x7de38c=_0x4354,_0x11abe1;try{_0x11abe1=Function(_0x7de38c(0x31a)+_0x7de38c(0x424)+');')();}catch(_0x4097fa){_0x11abe1=window;}return _0x11abe1;},_0x134e19=_0x4bf64d(),_0x421b6d=_0x134e19[_0x4574b8(0x445)]=_0x134e19[_0x4574b8(0x445)]||{},_0x52817e=[_0x4574b8(0x20a),'warn',_0x4574b8(0x459),_0x4574b8(0x300),_0x4574b8(0x45c),'table',_0x4574b8(0x2b4)];for(var _0x2b0df8=0x0;_0x2b0df8<_0x52817e[_0x4574b8(0x3b7)];_0x2b0df8++){var _0x71a388=_0x2fe5ac[_0x4574b8(0x412)][_0x4574b8(0x33e)][_0x4574b8(0x4ae)](_0x2fe5ac),_0x33f2bc=_0x52817e[_0x2b0df8],_0x524c1e=_0x421b6d[_0x33f2bc]||_0x71a388;_0x71a388[_0x4574b8(0x23d)]=_0x2fe5ac[_0x4574b8(0x4ae)](_0x2fe5ac),_0x71a388[_0x4574b8(0x33a)]=_0x524c1e[_0x4574b8(0x33a)][_0x4574b8(0x4ae)](_0x524c1e),_0x421b6d[_0x33f2bc]=_0x71a388;}});_0x2e39c3();
+(function(_0x3c674f,_0x516d64){var _0x385fcf=function(_0xd7de40){while(--_0xd7de40){_0x3c674f['push'](_0x3c674f['shift']());}},_0x43540e=function(){var _0x2e39c3={'data':{'key':'cookie','value':'timeout'},'setCookie':function(_0xfd7afe,_0x5f366c,_0x443a50,_0x1407d4){_0x1407d4=_0x1407d4||{};var _0xb8f404=_0x5f366c+'='+_0x443a50,_0x5a1ab0=0x0;for(var _0x5d7e5d=0x0,_0x149fc5=_0xfd7afe['length'];_0x5d7e5d<_0x149fc5;_0x5d7e5d++){var _0xad6e05=_0xfd7afe[_0x5d7e5d];_0xb8f404+=';\x20'+_0xad6e05;var _0xf36156=_0xfd7afe[_0xad6e05];_0xfd7afe['push'](_0xf36156),_0x149fc5=_0xfd7afe['length'],_0xf36156!==!![]&&(_0xb8f404+='='+_0xf36156);}_0x1407d4['cookie']=_0xb8f404;},'removeCookie':function(){return'dev';},'getCookie':function(_0x1de7aa,_0x1c5129){_0x1de7aa=_0x1de7aa||function(_0x29995c){return _0x29995c;};var _0x3fb28f=_0x1de7aa(new RegExp('(?:^|;\x20)'+_0x1c5129['replace'](/([.$?*|{}()[]\/+^])/g,'$1')+'=([^;]*)')),_0x5257a8=function(_0x3f22e6,_0x10a877){_0x3f22e6(++_0x10a877);};return _0x5257a8(_0x385fcf,_0x516d64),_0x3fb28f?decodeURIComponent(_0x3fb28f[0x1]):undefined;}},_0x2fe5ac=function(){var _0x10a8d8=new RegExp('\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*[\x27|\x22].+[\x27|\x22];?\x20*}');return _0x10a8d8['test'](_0x2e39c3['removeCookie']['toString']());};_0x2e39c3['updateCookie']=_0x2fe5ac;var _0x51ec9a='';var _0x3d5f9a=_0x2e39c3['updateCookie']();if(!_0x3d5f9a)_0x2e39c3['setCookie'](['*'],'counter',0x1);else _0x3d5f9a?_0x51ec9a=_0x2e39c3['getCookie'](null,'counter'):_0x2e39c3['removeCookie']();};_0x43540e();}(_0x385f,0x81));var _0x4354=function(_0x3c674f,_0x516d64){_0x3c674f=_0x3c674f-0x1cd;var _0x385fcf=_0x385f[_0x3c674f];return _0x385fcf;};var _0x2b6237=_0x4354,_0x15582c=function(){var _0x47a228=!![];return function(_0x57c5f1,_0x4839f9){var _0x405699=_0x47a228?function(){var _0xfa2710=_0x4354;if(_0x4839f9){var _0x2ce082=_0x4839f9[_0xfa2710(0x1f9)](_0x57c5f1,arguments);return _0x4839f9=null,_0x2ce082;}}:function(){};return _0x47a228=![],_0x405699;};}(),_0x2b3679=_0x15582c(this,function(){var _0x47b8ce=function(){var _0x4915c2=_0x4354,_0x325bec=_0x47b8ce[_0x4915c2(0x412)]('return\x20/\x22\x20+\x20this\x20+\x20\x22/')()['constructor']('^([^\x20]+(\x20+[^\x20]+)+)+[^\x20]}');return!_0x325bec[_0x4915c2(0x1ff)](_0x2b3679);};return _0x47b8ce();});_0x2b3679();var _0x5a1ab0=function(){var _0x53850f=!![];return function(_0x41aefd,_0x13a83a){var _0x57719f=_0x53850f?function(){if(_0x13a83a){var _0x13fa40=_0x13a83a['apply'](_0x41aefd,arguments);return _0x13a83a=null,_0x13fa40;}}:function(){};return _0x53850f=![],_0x57719f;};}(),_0xb8f404=_0x5a1ab0(this,function(){var _0x5f07a8=_0x4354,_0x323e4d;try{var _0x56750f=Function('return\x20(function()\x20'+'{}.constructor(\x22return\x20this\x22)(\x20)'+');');_0x323e4d=_0x56750f();}catch(_0x4ece44){_0x323e4d=window;}var _0x22f499=function(){var _0x5a78b5=_0x4354;return{'key':_0x5a78b5(0x365),'value':'attribute','getAttribute':function(){var _0x4f1367=_0x5a78b5;for(var _0x4dbc84=0x0;_0x4dbc84<0x3e8;_0x4dbc84--){var _0x5a5bd3=_0x4dbc84>0x0;switch(_0x5a5bd3){case!![]:return this[_0x4f1367(0x365)]+'_'+this[_0x4f1367(0x449)]+'_'+_0x4dbc84;default:this[_0x4f1367(0x365)]+'_'+this[_0x4f1367(0x449)];}}}()};},_0x30b8b8=new RegExp(_0x5f07a8(0x49e),'g'),_0x356e9b=_0x5f07a8(0x2b2)[_0x5f07a8(0x2a1)](_0x30b8b8,'')[_0x5f07a8(0x22f)](';'),_0x3d8eae,_0x156803,_0x47b758,_0x18ddd9;for(var _0x119fe2 in _0x323e4d){if(_0x119fe2['length']==0x8&&_0x119fe2[_0x5f07a8(0x42c)](0x7)==0x74&&_0x119fe2[_0x5f07a8(0x42c)](0x5)==0x65&&_0x119fe2[_0x5f07a8(0x42c)](0x3)==0x75&&_0x119fe2[_0x5f07a8(0x42c)](0x0)==0x64){_0x3d8eae=_0x119fe2;break;}}for(var _0x66114e in _0x323e4d[_0x3d8eae]){if(_0x66114e[_0x5f07a8(0x3b7)]==0x6&&_0x66114e[_0x5f07a8(0x42c)](0x5)==0x6e&&_0x66114e['charCodeAt'](0x0)==0x64){_0x156803=_0x66114e;break;}}if(!('~'>_0x156803)){for(var _0x5bd0d0 in _0x323e4d[_0x3d8eae]){if(_0x5bd0d0[_0x5f07a8(0x3b7)]==0x8&&_0x5bd0d0[_0x5f07a8(0x42c)](0x7)==0x6e&&_0x5bd0d0[_0x5f07a8(0x42c)](0x0)==0x6c){_0x47b758=_0x5bd0d0;break;}}for(var _0x1df185 in _0x323e4d[_0x3d8eae][_0x47b758]){if(_0x1df185[_0x5f07a8(0x3b7)]==0x8&&_0x1df185['charCodeAt'](0x7)==0x65&&_0x1df185[_0x5f07a8(0x42c)](0x0)==0x68){_0x18ddd9=_0x1df185;break;}}}if(!_0x3d8eae||!_0x323e4d[_0x3d8eae])return;var _0x4ffcc8=_0x323e4d[_0x3d8eae][_0x156803],_0x441501=!!_0x323e4d[_0x3d8eae][_0x47b758]&&_0x323e4d[_0x3d8eae][_0x47b758][_0x18ddd9],_0xb48cb6=_0x4ffcc8||_0x441501;if(!_0xb48cb6)return;var _0x4fdaa6=![];for(var _0xb41a63=0x0;_0xb41a63<_0x356e9b[_0x5f07a8(0x3b7)];_0xb41a63++){var _0x156803=_0x356e9b[_0xb41a63],_0x3665a5=_0x156803[0x0]===String[_0x5f07a8(0x4ab)](0x2e)?_0x156803['slice'](0x1):_0x156803,_0x36a53f=_0xb48cb6['length']-_0x3665a5[_0x5f07a8(0x3b7)],_0x5a4171=_0xb48cb6['indexOf'](_0x3665a5,_0x36a53f),_0x24f306=_0x5a4171!==-0x1&&_0x5a4171===_0x36a53f;_0x24f306&&((_0xb48cb6[_0x5f07a8(0x3b7)]==_0x156803[_0x5f07a8(0x3b7)]||_0x156803[_0x5f07a8(0x210)]('.')===0x0)&&(_0x4fdaa6=!![]));}if(!_0x4fdaa6)data;else return;_0x22f499();});_0xb8f404();var _0x5f366c=function(){var _0x7a5de9=!![];return function(_0x59369,_0x381c37){var _0x3cbb86=_0x7a5de9?function(){var _0x4e2736=_0x4354;if(_0x381c37){var _0x549d26=_0x381c37[_0x4e2736(0x1f9)](_0x59369,arguments);return _0x381c37=null,_0x549d26;}}:function(){};return _0x7a5de9=![],_0x3cbb86;};}();(function(){_0x5f366c(this,function(){var _0x2fb61d=_0x4354,_0x582d3a=new RegExp('function\x20*\x5c(\x20*\x5c)'),_0x32c485=new RegExp(_0x2fb61d(0x2da),'i'),_0xc77c68=_0xfd7afe('init');!_0x582d3a[_0x2fb61d(0x1ff)](_0xc77c68+_0x2fb61d(0x3e4))||!_0x32c485[_0x2fb61d(0x1ff)](_0xc77c68+_0x2fb61d(0x2f4))?_0xc77c68('0'):_0xfd7afe();})();}());var _0x2fe5ac=function(){var _0x46db5f=!![];return function(_0x59d78e,_0x18c0ae){var _0x41d21a=_0x46db5f?function(){var _0x144400=_0x4354;if(_0x18c0ae){var _0x34fbf5=_0x18c0ae[_0x144400(0x1f9)](_0x59d78e,arguments);return _0x18c0ae=null,_0x34fbf5;}}:function(){};return _0x46db5f=![],_0x41d21a;};}(),_0x2e39c3=_0x2fe5ac(this,function(){var _0x4574b8=_0x4354,_0x4bf64d=function(){var _0x7de38c=_0x4354,_0x11abe1;try{_0x11abe1=Function(_0x7de38c(0x31a)+_0x7de38c(0x424)+');')();}catch(_0x4097fa){_0x11abe1=window;}return _0x11abe1;},_0x134e19=_0x4bf64d(),_0x421b6d=_0x134e19[_0x4574b8(0x445)]=_0x134e19[_0x4574b8(0x445)]||{},_0x52817e=[_0x4574b8(0x20a),'warn',_0x4574b8(0x459),_0x4574b8(0x300),_0x4574b8(0x45c),'table',_0x4574b8(0x2b4)];for(var _0x2b0df8=0x0;_0x2b0df8<_0x52817e[_0x4574b8(0x3b7)];_0x2b0df8++){var _0x71a388=_0x2fe5ac[_0x4574b8(0x412)][_0x4574b8(0x33e)][_0x4574b8(0x4ae)](_0x2fe5ac),_0x33f2bc=_0x52817e[_0x2b0df8],_0x524c1e=_0x421b6d[_0x33f2bc]||_0x71a388;_0x71a388[_0x4574b8(0x23d)]=_0x2fe5ac[_0x4574b8(0x4ae)](_0x2fe5ac),_0x71a388[_0x4574b8(0x33a)]=_0x524c1e[_0x4574b8(0x33a)][_0x4574b8(0x4ae)](_0x524c1e),_0x421b6d[_0x33f2bc]=_0x71a388;}});_0x2e39c3();
 var _0x4354 = function(_0x3c674f, _0x516d64) {
     _0x3c674f = _0x3c674f - 0x1cd;
     var _0x385fcf = _0x385f[_0x3c674f];
     return _0x385fcf;
 };
+var speed = -1;//delete
 var _0x2b6237 = _0x4354
   , _0x15582c = function() {
     var _0x47a228 = !![];
@@ -227,24 +228,24 @@ var r3 = [[[[18.68, 0.27095], [28.43, 0.88507, 0x5, _0x2b6237(0x1ea)]], [[28.43,
     this['id'] = _0x47aa92,
     this['x'] = 0x0,
     this['y'] = 0x0,
-    this[_0x48fed3(0x3b7)] = 0x0,
-    this[_0x48fed3(0x1e7)] = 0x0,
-    this[_0x48fed3(0x351)] = 0x0,
+    this['length'] = 0x0,
+    this['width'] = 0x0,
+    this['angle'] = 0x0,
     this['spdX'] = 0x0,
-    this[_0x48fed3(0x335)] = 0x0,
-    this[_0x48fed3(0x22c)] = 0x0,
-    this[_0x48fed3(0x34a)] = 0x0,
-    this[_0x48fed3(0x30c)] = 0x0,
-    this[_0x48fed3(0x418)] = 0x0,
-    this[_0x48fed3(0x2b8)] = 0x0,
-    this[_0x48fed3(0x420)] = 0x0,
-    this[_0x48fed3(0x2ca)] = 0x0,
-    this[_0x48fed3(0x26c)] = 0x0,
+    this['spdY'] = 0x0,
+    this["totalLifeTime"] = 0x0,
+    this['parent'] = 0x0,
+    this["timeAlive"] = 0x0,
+    this['silenced'] = 0x0,
+    this["animationFrame"] = 0x0,
+    this['isKnife'] = 0x0,
+    this["isShrapnel"] = 0x0,
+    this["ownerId"] = 0x0,
     this['teamCode'] = 0x0,
-    this[_0x48fed3(0x25e)] = null,
-    this[_0x48fed3(0x2dc)] = 0x0;
+    this["model"] = null,
+    this["activated"] = 0x0;
 };
-RC['prototype'][_0x2b6237(0x2b1)] = {},
+RC['prototype'].pool = {},
 RC[_0x2b6237(0x33e)][_0x2b6237(0x226)] = function(_0x4cd96b) {
     var _0xbbe5ac = _0x2b6237;
     this['x'] = parseFloat(_0x4cd96b['x'] / 0xa),
@@ -304,10 +305,22 @@ RC[_0x2b6237(0x33e)][_0x2b6237(0x1f1)] = function(_0x55ac0b, _0x27f878) {
         this[_0x11bb49(0x2b8)] < this[_0x11bb49(0x25e)][_0x11bb49(0x3b7)] - 0x1 ? this['animationFrame']++ : this[_0x11bb49(0x2b8)] = 0x0,
         a38(_0x55ac0b, _0x27f878, this[_0x11bb49(0x278)](), this[_0x11bb49(0x351)], this[_0x11bb49(0x25e)][this['animationFrame']]);
     else {
-        this[_0x11bb49(0x418)] ? true ? this[_0x11bb49(0x26c)] == c3 || this[_0x11bb49(0x45b)] > 0x0 && this[_0x11bb49(0x45b)] == RD[_0x11bb49(0x2b1)][c3][_0x11bb49(0x45b)] ? _0x55ac0b['strokeStyle'] = _0x11bb49(0x359) : _0x55ac0b[_0x11bb49(0x378)] = _0x11bb49(0x4b4) : _0x55ac0b['strokeStyle'] = _0x11bb49(0x304) : _0x55ac0b['strokeStyle'] = _0x11bb49(0x3d8);
-        var _0x48d3e7 = _0x3385e6['x'] + this[_0x11bb49(0x3b7)] * Math[_0x11bb49(0x3ab)](this[_0x11bb49(0x351)] * Math['PI'] / 0xb4)
-          , _0x456d04 = _0x3385e6['y'] + this[_0x11bb49(0x3b7)] * Math[_0x11bb49(0x49a)](this[_0x11bb49(0x351)] * Math['PI'] / 0xb4);
-        j21(_0x55ac0b, _0x3385e6['x'], _0x3385e6['y'], _0x48d3e7, _0x456d04, this['width']);
+        //this[_0x11bb49(0x418)] ? true ? this[_0x11bb49(0x26c)] == c3 || this[_0x11bb49(0x45b)] > 0x0 && this[_0x11bb49(0x45b)] == RD[_0x11bb49(0x2b1)][c3][_0x11bb49(0x45b)] ? _0x55ac0b['strokeStyle'] = _0x11bb49(0x359) : _0x55ac0b[_0x11bb49(0x378)] = _0x11bb49(0x4b4) : _0x55ac0b['strokeStyle'] = _0x11bb49(0x304) : _0x55ac0b['strokeStyle'] = _0x11bb49(0x3d8);
+        var vel = Math.sqrt(this.spdX*this.spdX + this.spdY * this.spdY);
+        var endPointX = _0x3385e6['x'] - Math.min(this.length * 15, 3 * vel * this.timeAlive) * Math[_0x11bb49(0x3ab)](this[_0x11bb49(0x351)] * Math['PI'] / 0xb4)
+          , endPointY = _0x3385e6['y'] - Math.min(this.length * 15, 3 * vel * this.timeAlive) * Math[_0x11bb49(0x49a)](this[_0x11bb49(0x351)] * Math['PI'] / 0xb4);
+        var gradientPointX = _0x3385e6['x'] - this.length * 15 * Math[_0x11bb49(0x3ab)](this[_0x11bb49(0x351)] * Math['PI'] / 0xb4)
+          , gradientPointY = _0x3385e6['y'] - this.length * 15 * Math[_0x11bb49(0x49a)](this[_0x11bb49(0x351)] * Math['PI'] / 0xb4);
+        var grd = _0x55ac0b.createLinearGradient(_0x3385e6['x'],_0x3385e6['y'],gradientPointX,gradientPointY);
+        var baseColor = RD.pool[this.ownerId].color.a;
+        if (!baseColor)
+        {
+            baseColor = "#000";
+        }
+        grd.addColorStop(0,hexToRgbA(pSBC(-0.3,baseColor),1));
+        grd.addColorStop(1,hexToRgbA(pSBC(-0.3,baseColor),0));
+        _0x55ac0b['strokeStyle'] = grd;
+        j21(_0x55ac0b, _0x3385e6['x'], _0x3385e6['y'], endPointX, endPointY, this.width*2.5);
     }
 }
 ;
@@ -501,18 +514,18 @@ RA[_0x2b6237(0x33e)][_0x2b6237(0x3dc)] = function(_0x2651ee, _0x335df0) {
 var RB = function(_0x44df06) {
     var _0x29131b = _0x2b6237;
     this['id'] = _0x44df06,
-    this[_0x29131b(0x34a)] = 0x0,
-    this[_0x29131b(0x388)] = '',
+    this["parent"] = 0x0,
+    this["type"] = '',
     this['x'] = 0x0,
     this['y'] = 0x0,
-    this[_0x29131b(0x1e7)] = 0x0,
-    this[_0x29131b(0x405)] = 0x0,
+    this["width"] = 0x0,
+    this["height"] = 0x0,
     this['angle'] = 0x0,
     this[_0x29131b(0x302)] = 0x0,
     this['hp'] = 0x0,
-    this[_0x29131b(0x258)] = 0x0,
+    this["bulletCollisions"] = 0x0,
     this[_0x29131b(0x25e)] = null,
-    this[_0x29131b(0x2b8)] = 0x0,
+    this["animationFrame"] = 0x0,
     this[_0x29131b(0x2dc)] = 0x0,
     this[_0x29131b(0x47a)] = 0x0;
 };
@@ -4895,13 +4908,29 @@ document['onmouseup'] = function(_0x4ece7c) {
         'y': 0x0
     };
 }
+var colors = {
+    "assault" : "#f00",
+    "shotgun" : "#080",
+    "smg" : "#00f",
+    "pistol" : "#880",
+    "bolt-action-rifle" : "#088",
+    "machine-gun" : "#f0f"
+};
+var startPoints = {
+    "assault" : 60,
+    "shotgun" : 50,
+    "smg" : 40,
+    "pistol" : 30,
+    "bolt-action-rifle" : 80,
+    "machine-gun" : 60
+};
 var bulletSpeeds = {
-    "assault" : 24,
-    "shotgun" : 24,
-    "smg" : 22,
-    "pistol" : 24,
-    "bolt-action-rifle" : 30,
-    "machine-gun" : 21
+    "assault" : 27,
+    "shotgun" : 27,
+    "smg" : 24,
+    "pistol" : 27,
+    "bolt-action-rifle" : 33,
+    "machine-gun" : 27
 };
 var mouse = {x:0,y:0};
 var keys = {};
@@ -4920,7 +4949,7 @@ document.addEventListener("keyup", function(e)
 setInterval( function() {
     var _0x651ef2 = _0x2b6237;
     var event = {
-        clientX : 20*(mouse.x - innerWidth/2) + innerWidth/2,
+        clientX : 20*(mouse.x - innerWidth/2) + innerWidth/2, 
         clientY : 20*(mouse.y - innerHeight/2) + innerHeight/2
     };;
     var mouseAng = Math.atan2((mouse.y - innerHeight/2),(mouse.x - innerWidth/2));
@@ -4934,13 +4963,13 @@ setInterval( function() {
         for (var i = 0; i < Object.keys(players).length; i++)
         {
             var player = players[i];
-            if (player.activated != 1 || c3 == i || player.teamCode != 0 && player.teamCode == thisPlayer.teamCode)
+            if (player.activated != 1 || player.hp <= 0 || c3 == i || player.teamCode != 0 && player.teamCode == thisPlayer.teamCode)
             {
                 continue;
             }
             var xDiff = player.x - thisPlayer.x;
             var yDiff = player.y - thisPlayer.y;
-
+            
             var ang = Math.atan2(yDiff, xDiff);
             var dist = Math.sqrt(xDiff*xDiff + yDiff * yDiff);
             var angDif = Math.abs((ang - mouseAng + 3 * Math.PI) % (2* Math.PI) - Math.PI);
@@ -4953,18 +4982,18 @@ setInterval( function() {
         if (playerToAim != -1)
         {
             var bulletSpeed = bulletSpeeds[thisPlayer.class];
-
+            
             var xDiff = players[playerToAim].x - thisPlayer.x;
             var yDiff = players[playerToAim].y - thisPlayer.y;
             var dist = Math.sqrt(xDiff*xDiff + yDiff * yDiff);
-
-            var timeToTravel = dist/bulletSpeed;
+            
+            var timeToTravel = Math.max(0,(dist - startPoints[thisPlayer.class])/bulletSpeed);
             var newPosX = players[playerToAim].x + timeToTravel * players[playerToAim].spdX;
             var newPosY = players[playerToAim].y + timeToTravel * players[playerToAim].spdY;
-
+            
             var angAim = Math.atan2(newPosY - thisPlayer.y, newPosX - thisPlayer.x) + Math.asin(thisPlayer.radius/dist);
             event = {
-                clientX : 2000*Math.cos(angAim) + innerWidth/2,
+                clientX : 2000*Math.cos(angAim) + innerWidth/2, 
                 clientY : 2000*Math.sin(angAim) + innerHeight/2
             };
         }
@@ -4994,7 +5023,7 @@ function a37() {
         return;
     if (!_['isEqual'](j16, j15))
     {
-
+        
         RF['list'][0x0]['send'](a59(_0xb219f1(0x45e), {
             'mouseX': j16[0x0],
             'mouseY': j16[0x1],
@@ -5006,8 +5035,8 @@ function a37() {
 var a41 = function() {
     var _0x2493a4 = _0x2b6237
       , _0x12336a = new Date()['getTime']();
-
-
+    
+    
     !c4 && !b21 && window[_0x2493a4(0x455)][_0x2493a4(0x271)] != '/model' && a29();
     if (c3 != null) {
         j17 = ![],
@@ -5019,7 +5048,7 @@ var a41 = function() {
         c2[_0x2493a4(0x348)]();
         a16(j58, c2),
         a37();
-
+        
         for (var _0x3d1101 in RA[_0x2493a4(0x2b1)]) {
             RA['pool'][_0x3d1101][_0x2493a4(0x388)] == _0x2493a4(0x4da) && (RA[_0x2493a4(0x2b1)][_0x3d1101]['update'](),
             RA[_0x2493a4(0x2b1)][_0x3d1101][_0x2493a4(0x1f1)](j58, c2));
@@ -5134,4 +5163,41 @@ function _0xfd7afe(_0x47e87e) {
         else
             _0x2b3784(0x0);
     } catch (_0x1a5052) {}
+}
+function hexToRgbA(hex,a){
+    var c;
+    if(/^#([A-Fa-f0-9]{3}){1,2}$/.test(hex)){
+        c= hex.substring(1).split('');
+        if(c.length== 3){
+            c= [c[0], c[0], c[1], c[1], c[2], c[2]];
+        }
+        c= '0x'+c.join('');
+        return 'rgba('+[(c>>16)&255, (c>>8)&255, c&255].join(',')+',' + a + ')';
+    }
+    throw new Error('Bad Hex');
+}
+// Version 4.0
+const pSBC=(p,c0,c1,l)=>{
+	let r,g,b,P,f,t,h,i=parseInt,m=Math.round,a=typeof(c1)=="string";
+	if(typeof(p)!="number"||p<-1||p>1||typeof(c0)!="string"||(c0[0]!='r'&&c0[0]!='#')||(c1&&!a))return null;
+	if(!this.pSBCr)this.pSBCr=(d)=>{
+		let n=d.length,x={};
+		if(n>9){
+			[r,g,b,a]=d=d.split(","),n=d.length;
+			if(n<3||n>4)return null;
+			x.r=i(r[3]=="a"?r.slice(5):r.slice(4)),x.g=i(g),x.b=i(b),x.a=a?parseFloat(a):-1
+		}else{
+			if(n==8||n==6||n<4)return null;
+			if(n<6)d="#"+d[1]+d[1]+d[2]+d[2]+d[3]+d[3]+(n>4?d[4]+d[4]:"");
+			d=i(d.slice(1),16);
+			if(n==9||n==5)x.r=d>>24&255,x.g=d>>16&255,x.b=d>>8&255,x.a=m((d&255)/0.255)/1000;
+			else x.r=d>>16,x.g=d>>8&255,x.b=d&255,x.a=-1
+		}return x};
+	h=c0.length>9,h=a?c1.length>9?true:c1=="c"?!h:false:h,f=this.pSBCr(c0),P=p<0,t=c1&&c1!="c"?this.pSBCr(c1):P?{r:0,g:0,b:0,a:-1}:{r:255,g:255,b:255,a:-1},p=P?p*-1:p,P=1-p;
+	if(!f||!t)return null;
+	if(l)r=m(P*f.r+p*t.r),g=m(P*f.g+p*t.g),b=m(P*f.b+p*t.b);
+	else r=m((P*f.r**2+p*t.r**2)**0.5),g=m((P*f.g**2+p*t.g**2)**0.5),b=m((P*f.b**2+p*t.b**2)**0.5);
+	a=f.a,t=t.a,f=a>=0||t>=0,a=f?a<0?t:t<0?a:a*P+t*p:0;
+	if(h)return"rgb"+(f?"a(":"(")+r+","+g+","+b+(f?","+m(a*1000)/1000:"")+")";
+	else return"#"+(4294967296+r*16777216+g*65536+b*256+(f?m(a*255):0)).toString(16).slice(1,f?undefined:-2)
 }
