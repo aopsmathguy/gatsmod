@@ -4949,7 +4949,7 @@ document.addEventListener("keyup", function(e)
 setInterval( function() {
     var _0x651ef2 = _0x2b6237;
     var event = {
-        clientX : 20*(mouse.x - innerWidth/2) + innerWidth/2, 
+        clientX : 20*(mouse.x - innerWidth/2) + innerWidth/2,
         clientY : 20*(mouse.y - innerHeight/2) + innerHeight/2
     };;
     var mouseAng = Math.atan2((mouse.y - innerHeight/2),(mouse.x - innerWidth/2));
@@ -4960,7 +4960,7 @@ setInterval( function() {
         var minDist = -1;
         var playerToAim = -1;
         var angAim = Math.PI/3;
-        var rangeAuto = 60;
+        var rangeAuto = 150;
         for (var i = 0; i < Object.keys(players).length; i++)
         {
             var player = players[i];
@@ -4970,7 +4970,7 @@ setInterval( function() {
             }
             var xDiff = player.x - thisPlayer.x;
             var yDiff = player.y - thisPlayer.y;
-            
+
             var ang = Math.atan2(yDiff, xDiff);
             var dist = Math.sqrt(xDiff*xDiff + yDiff * yDiff);
             var angDif = Math.abs((ang - mouseAng + 3 * Math.PI) % (2* Math.PI) - Math.PI);
@@ -4983,25 +4983,25 @@ setInterval( function() {
         if (playerToAim != -1)
         {
             var bulletSpeed = bulletSpeeds[thisPlayer.class];
-            
+
             var xDiff = players[playerToAim].x - thisPlayer.x;
             var yDiff = players[playerToAim].y - thisPlayer.y;
             var dist = Math.sqrt(xDiff*xDiff + yDiff * yDiff);
-            
+
             var timeToTravel = Math.max(0,(dist - startPoints[thisPlayer.class])/bulletSpeed);
             var newPosX = players[playerToAim].x + timeToTravel * players[playerToAim].spdX;
             var newPosY = players[playerToAim].y + timeToTravel * players[playerToAim].spdY;
-            
-            var angAim = Math.atan2(newPosY - thisPlayer.y, newPosX - thisPlayer.x) + Math.asin(thisPlayer.radius/dist);
+
+            var angAim = Math.atan2(newPosY - thisPlayer.y, newPosX - thisPlayer.x) + Math.asin(16/dist);
             event = {
-                clientX : 2000*Math.cos(angAim) + innerWidth/2, 
+                clientX : 2000*Math.cos(angAim) + innerWidth/2,
                 clientY : 2000*Math.sin(angAim) + innerHeight/2
             };
         }
     }
     c3 && a57(event),
     j9 = [event['clientX'], event[_0x651ef2(0x437)]];
-},20);
+},15);
 function a57(_0x49b52e) {
     var _0x2816cb = _0x2b6237
       , _0x3e9954 = c2[_0x2816cb(0x26e)](RD[_0x2816cb(0x2b1)][c3][_0x2816cb(0x278)]())
@@ -5024,7 +5024,7 @@ function a37() {
         return;
     if (!_['isEqual'](j16, j15))
     {
-        
+
         RF['list'][0x0]['send'](a59(_0xb219f1(0x45e), {
             'mouseX': j16[0x0],
             'mouseY': j16[0x1],
@@ -5036,8 +5036,8 @@ function a37() {
 var a41 = function() {
     var _0x2493a4 = _0x2b6237
       , _0x12336a = new Date()['getTime']();
-    
-    
+
+
     !c4 && !b21 && window[_0x2493a4(0x455)][_0x2493a4(0x271)] != '/model' && a29();
     if (c3 != null) {
         j17 = ![],
@@ -5049,7 +5049,7 @@ var a41 = function() {
         c2[_0x2493a4(0x348)]();
         a16(j58, c2),
         a37();
-        
+
         for (var _0x3d1101 in RA[_0x2493a4(0x2b1)]) {
             RA['pool'][_0x3d1101][_0x2493a4(0x388)] == _0x2493a4(0x4da) && (RA[_0x2493a4(0x2b1)][_0x3d1101]['update'](),
             RA[_0x2493a4(0x2b1)][_0x3d1101][_0x2493a4(0x1f1)](j58, c2));
