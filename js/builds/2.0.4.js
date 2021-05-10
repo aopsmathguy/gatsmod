@@ -4976,7 +4976,7 @@ function updateMouse() {
         var playerNotAim = -1;
         
         var angAim = Math.PI/4;
-        var rangeAuto = 60;
+        var rangeAuto = 150;
         for (var i = 0; i < Object.keys(players).length; i++)
         {
             var player = players[i];
@@ -5018,7 +5018,7 @@ function updateMouse() {
             var newPosX = players[playerToAim].x + timeToTravel * players[playerToAim].spdX;
             var newPosY = players[playerToAim].y + timeToTravel * players[playerToAim].spdY;
             
-            var angAim = Math.atan2(newPosY - thisPlayer.y, newPosX - thisPlayer.x) + Math.asin(thisPlayer.radius/Math.max(dist,startPoints[thisPlayer.class]));
+            var angAim = Math.atan2(newPosY - thisPlayer.y, newPosX - thisPlayer.x) + Math.asin(16/Math.max(dist,startPoints[thisPlayer.class]));
             event = {
                 clientX : 20000*Math.cos(angAim) + innerWidth/2, 
                 clientY : 20000*Math.sin(angAim) + innerHeight/2
