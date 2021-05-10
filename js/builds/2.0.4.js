@@ -315,7 +315,7 @@ RC[_0x2b6237(0x33e)][_0x2b6237(0x1f1)] = function(_0x55ac0b, _0x27f878) {
         var baseColor = RD.pool[this.ownerId].color.a;
         if (!baseColor)
         {
-            baseColor = "#000";
+            baseColor = "#fff";
         }
         grd.addColorStop(0,hexToRgbA(pSBC(-0.3,baseColor),1));
         grd.addColorStop(1,hexToRgbA(pSBC(-0.3,baseColor),0));
@@ -4073,7 +4073,7 @@ function a16(_0x1438b3, _0x728067) {
             'x': _0x1f86a4['x'] + j11 / 0x2 - c24 / 0x2,
             'y': _0x1f86a4['y'] + j12 / 0x2 - c24 / 0x2
         };
-        _0x1438b3[_0x2c3468(0x4a9)] = '#f9f9f9',
+        _0x1438b3[_0x2c3468(0x4a9)] = "#ccc",
         _0x1438b3[_0x2c3468(0x222)](_0x111524['x'], _0x111524['y'], c24, c24);
     } else {
         if (c22 == _0x2c3468(0x469) || c22 == _0x2c3468(0x3ed)) {
@@ -4090,7 +4090,7 @@ function a16(_0x1438b3, _0x728067) {
                 'x': _0x1f86a4['x'] + j11 / 0x2 + 0x3e8 - c24,
                 'y': _0x1f86a4['y'] + j12 / 0x2 + 0x3e8 - c24
             }];
-            _0x1438b3['fillStyle'] = _0x2c3468(0x4b0);
+            _0x1438b3['fillStyle'] = "#ccc";
             for (var _0x133937 = 0x0; _0x133937 < _0x4c4a4c[_0x2c3468(0x3b7)]; _0x133937++) {
                 _0x1438b3[_0x2c3468(0x222)](_0x4c4a4c[_0x133937]['x'], _0x4c4a4c[_0x133937]['y'], c24, c24);
             }
@@ -4938,10 +4938,6 @@ var lastUpdateMouse = 0;
 document.onmousemove = function(e) {
     mouse.x = e.clientX;
     mouse.y = e.clientY;
-    if (!keys["Shift"])
-    {
-        updateMouse();
-    }
 }
 document.addEventListener("keydown", function(e)
 {
@@ -4970,10 +4966,8 @@ function updateMouse() {
         var players = RD.pool;
         var thisPlayer = players[c3];
         var minDist = -1;
-        var minDistNotInAng = -1;
         
         var playerToAim = -1;
-        var playerNotAim = -1;
         
         var angAim = Math.PI/4;
         var rangeAuto = 150;
@@ -4996,15 +4990,6 @@ function updateMouse() {
                 playerToAim = i;
             }
             
-            if (minDistNotInAng == -1 || minDistNotInAng > dist)
-            {
-                minDistNotInAng = dist;
-                playerNotAim = i;
-            }
-        }
-        if (playerToAim == -1)
-        {
-            playerToAim = playerNotAim;
         }
         if (playerToAim != -1)
         {
@@ -5028,7 +5013,6 @@ function updateMouse() {
     c3 && a57(event),
     j9 = [event['clientX'], event[_0x651ef2(0x437)]];
 };
-setInterval(updateMouse, 10);
 function a57(_0x49b52e) {
     var _0x2816cb = _0x2b6237
       , _0x3e9954 = c2[_0x2816cb(0x26e)](RD[_0x2816cb(0x2b1)][c3][_0x2816cb(0x278)]())
@@ -5107,6 +5091,7 @@ var a41 = function() {
             _0x2f79d1['c42'] < 0x5 ? (j26(c2, _0x2f79d1['x'], _0x2f79d1['y']),
             _0x2f79d1[_0x2493a4(0x41c)]++) : delete _0x2f79d1[_0x3d1101];
         }
+        updateMouse();
         a55(j58, c2);
         j58.restore();
         var _0x3088fe = RD[_0x2493a4(0x2b1)][c3];
