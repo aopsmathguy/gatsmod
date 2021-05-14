@@ -4947,6 +4947,7 @@ document.addEventListener("keyup", function(e)
 {
     keys[e.key] = false;
 });
+var lagComp = 1;
 function updateMouse() {
     var now = Date.now();
     if (now - lastUpdateMouse < 8)
@@ -5000,10 +5001,12 @@ function updateMouse() {
             var dist = Math.sqrt(xDiff*xDiff + yDiff * yDiff);
             
             var timeToTravel = Math.max(0,(dist - startPoints[thisPlayer.class])/bulletSpeed);
-            var newPosX = players[playerToAim].x + timeToTravel * players[playerToAim].spdX;
-            var newPosY = players[playerToAim].y + timeToTravel * players[playerToAim].spdY;
+            var newPosX = players[playerToAim].x + (timeToTravel +lagComp)* players[playerToAim].spdX;
+            var newPosY = players[playerToAim].y + (timeToTravel +lagComp) * players[playerToAim].spdY;
             
-            var angAim = Math.atan2(newPosY - thisPlayer.y, newPosX - thisPlayer.x) + Math.asin(16/Math.max(dist,startPoints[thisPlayer.class]));
+            var thisNewPosX = thisPlayer.x + lagComp * thisPlayer.spdX;
+            var thisNewPosY = thisPlayer.y + lagComp * thisPlayer.spdY;
+            var angAim = Math.atan2(newPosY - thisNewPosY, newPosX - thisNewPosX) + Math.asin(18/Math.max(dist,startPoints[thisPlayer.class]));
             event = {
                 clientX : 20000*Math.cos(angAim) + innerWidth/2, 
                 clientY : 20000*Math.sin(angAim) + innerHeight/2
