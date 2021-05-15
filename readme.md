@@ -8,3 +8,7 @@ It includes
 - aimbot
 - thermal (a little glitched but it works)
 - bino
+
+You need to have the console open when the webpage loads.
+Hold shift to aimbot.
+Your mouse needs to be close to the enemy when firing(within 90 degrees)
